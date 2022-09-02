@@ -6,11 +6,17 @@
 
 int number1, number2;
 Console.WriteLine("Введите два числа и программа проверит, является первое число кратным второму");
-number1 = Convert.ToInt32(Console.ReadLine());
-number2 = Convert.ToInt32(Console.ReadLine());
+number1 = Convert.ToInt32 (Console.ReadLine());
+number2 = Convert.ToInt32 (Console.ReadLine());
 
-if (number1 % number2) == 0
+int mod = number1 % number2;
+
+if (mod == 0)
 {
-    Console.WriteLine($"Число {number1} кратно числу {number2}");
+    Console.WriteLine ($"Число {number1} кратно числу {number2}");
 }
-else Console.WriteLine($"Число {number1} не кратно числу {number2}. Остаток от деления");
+else 
+{
+    Console.WriteLine ($"Число {number1} не кратно числу {number2}. Остаток от деления {mod}");
+}
+
