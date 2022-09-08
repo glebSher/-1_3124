@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Глеб\\Downloads\\GB.RU\\03_Знакомство с C#\\Семинары\\Seminar2\\Task10\\Task10.csproj",
-      "projectName": "Task10",
-      "projectPath": "C:\\Users\\Глеб\\Downloads\\GB.RU\\03_Знакомство с C#\\Семинары\\Seminar2\\Task10\\Task10.csproj",
+      "projectUniqueName": "C:\\Users\\Глеб\\Downloads\\GB.RU\\03_Знакомство с C#\\Семинары\\Seminar2\\Task11\\Task11.csproj",
+      "projectName": "Task11",
+      "projectPath": "C:\\Users\\Глеб\\Downloads\\GB.RU\\03_Знакомство с C#\\Семинары\\Seminar2\\Task11\\Task11.csproj",
       "packagesPath": "C:\\Users\\Глеб\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Глеб\\Downloads\\GB.RU\\03_Знакомство с C#\\Семинары\\Seminar2\\Task10\\obj\\",
+      "outputPath": "C:\\Users\\Глеб\\Downloads\\GB.RU\\03_Знакомство с C#\\Семинары\\Seminar2\\Task11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Глеб\\AppData\\Roaming\\NuGet\\NuGet.Config"
